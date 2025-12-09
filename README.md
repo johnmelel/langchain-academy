@@ -32,7 +32,7 @@ $ pip install -r requirements.txt
 ```
 #### Windows Powershell
 ```
-PS> python3 -m venv lc-academy-env
+PS> python -m venv lc-academy-env
 PS> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 PS> .\lc-academy-env\Scripts\Activate.ps1
 PS> pip install -r requirements.txt
